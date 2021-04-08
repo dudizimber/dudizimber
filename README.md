@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dudi</h1>
 <h3 align="center">A Cloud Architect and Fullstack Dev from Brazil, living in Israel</h3>
 
-- 🔭 I’m currently working as CTO from (Vizo)[vizo.dev]
+- 🔭 I’m currently working as CTO from [Vizo](vizo.dev)
 
 - 💬 Ask me about **Angular, VueJS, GCP, NodeJS, Flutter and Typescript**
 
