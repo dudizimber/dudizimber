@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Dudi</h1>
-<h3 align="center">A Cloud Architect and Electronic Engineer from Brazil, living in Israel</h3>
-
-- 🔭 I’m currently working as CTO from [Vizo](vizo.dev)
+<h3 align="center">A Certified Professional Cloud Architect and Electronic Engineer from Brazil, living in Israel</h3>
 
 - 💬 Ask me about **Angular, VueJS, GCP, NodeJS, Flutter and Typescript**
 
-- 📫 How to reach me **dudi@vizo.dev**
+- 📫 How to reach me **zimber.dudi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
