@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dudi</h1>
 <h3 align="center">A Certified Professional Cloud Architect and Electronic Engineer from Brazil, living in Israel</h3>
 
-- 💬 Ask me about **Angular, VueJS, GCP, NodeJS, Flutter and Typescript**
+- 💬 Ask me about **Cloud Architeture, Kubernetes, GCP, NodeJS, Flutter, Typescript, and whatever else comes to you**
 
 - 📫 How to reach me **zimber.dudi@gmail.com**
 
